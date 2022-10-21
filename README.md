@@ -1,1 +1,6 @@
-# Lista-zada-To-do-list-
+# Lista-zadan / ToDo List
+
+Wykorzystane technologie:
+- HTML
+- CSS
+- JavaScript
